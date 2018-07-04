@@ -1,0 +1,15 @@
+/* @import "./utility/reset.css"; */
+
+/* non retina */
+.spriteEl1 {
+  background: url(../img/001-search.png) no-repeat 0 0;
+  width: 32px;
+  height: 32px;
+  border: 1px solid blue;
+}
+
+.spriteEl2 {
+    background-image: url(../img/crown_red.png) no-repeat 0 0;
+    width: 20px;
+    height: 20px;
+}
