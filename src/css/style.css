@@ -1,15 +1,11 @@
-/* @import "./utility/reset.css"; */
+@import './utility/reset.css';
+@import './component/buttons.css';
+@import './component/header.css';
 
-/* non retina */
-.spriteEl1 {
-  background: url(../img/001-search.png) no-repeat 0 0;
-  width: 32px;
-  height: 32px;
-  border: 1px solid blue;
-}
-
-.spriteEl2 {
-background-image: url(../img/crown_red.png) no-repeat 0 0;
-    width: 20px;
-    height: 20px;
-}
+@import './component/breadcrumbs.css';
+@import './component/forms.css';
+@import './component/grid.css';
+@import './component/navs.css';
+@import './component/pagination.css';
+@import './component/thumbnails.css';
+@import './component/media.css';
