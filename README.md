@@ -12,6 +12,14 @@ NodeJS
 ## Install
     npm i
 
+## Usage
+development
+
+    npm run start
+
+production
+
+    webpack --mode production
 
 ## Licence
 
