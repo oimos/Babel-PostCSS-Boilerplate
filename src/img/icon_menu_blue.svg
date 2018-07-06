@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.8,15 L5.2,15 C4.5376,15 4,15.448 4,16 C4,16.553 4.5376,17 5.2,17 L26.8,17 C27.4624,17 28,16.553 28,16 C28,15.448 27.4624,15 26.8,15 L26.8,15 Z M26.8,24 L5.2,24 C4.5376,24 4,24.448 4,25 C4,25.553 4.5376,26 5.2,26 L26.8,26 C27.4624,26 28,25.553 28,25 C28,24.448 27.4624,24 26.8,24 L26.8,24 Z M5.2,8 L26.8,8 C27.4624,8 28,7.553 28,7 C28,6.448 27.4624,6 26.8,6 L5.2,6 C4.5376,6 4,6.448 4,7 C4,7.553 4.5376,8 5.2,8 L5.2,8 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#primary" mask="url(#mask-2)" fill="#0072EE">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

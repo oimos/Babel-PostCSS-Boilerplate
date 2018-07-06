@@ -1,1 +1,22 @@
-/* .keep */
+.c-nav {
+  background: #222;
+  padding: 16px 12px;
+}
+
+.c-nav ul {
+  list-style: none;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.c-nav li {
+  width: 25%;
+  display: inline-block;
+  text-align: center;
+}
+
+.c-nav li a {
+  color: #fff;
+  font-size: 13px;
+}

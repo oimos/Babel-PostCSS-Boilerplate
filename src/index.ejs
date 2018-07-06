@@ -8,8 +8,47 @@
 <body>
 
 <% include src/includes/header %>
-<p>index</p>
-<img src="./img/cat.jpg" width="400" height="auto"/>
+
+<% include src/includes/nav %>
+
+<figure class="c-bannerWrapper">
+  <a href="#">
+    <img src="./img/ad_3.jpg" class="c-banner"/>
+  </a>
+</figure>
+
+<aside class="c-infoBar">
+  <p><span>こえきゃすリリース！</span><span>投稿をお待ちしていますm(_ _)m</span></p>
+</aside>
+
+<article class="c-postVoice">
+  <button>音声を投稿する</button>
+  <p class="c-postVoice__note">音声ファイルは各拡張子（mp3、wavなど）に対応しています。携帯の場合は保存してから投稿してください。</p>
+</article>
+
+<article class="c-voiceGenre">
+  <ul class="c-voiceGenre__list">
+    <li class="c-voiceGenre__item">
+      <div>
+          <img src="./img/icon_voice_female.svg" alt="女性新着">
+          <span>女性新着</span>
+      </div>
+    </li>
+    <li class="c-voiceGenre__item">
+      <div>
+        <img src="./img/icon_voice_male.svg" alt="男性新着">
+        <span>男性新着</span>
+      </div>
+    </li>
+    <li class="c-voiceGenre__item">
+      <div>
+        <img src="./img/icon_voice_couple.svg" alt="カップル新着">
+        <span>カップル新着</span>
+      </div>
+    </li>
+  </ul>
+</article>
+
 <% include src/includes/footer %>
 
 </body>

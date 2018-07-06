@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M28,14.682 L16,29 L4,14.623 C2.565,12.629 2,11.282 2,9.438 C2,5.999 4.455,2.904 8,2.875 C10.916,2.851 14.222,5.829 16,8.074 C17.731,5.908 21.084,2.875 24,2.875 C27.451,2.875 30,5.999 30,9.438 C30,11.282 29.553,12.729 28,14.682 L28,14.682 Z M24,1 C20.667,1 18.145,2.956 16,5 C13.957,2.831 11.333,1 8,1 C3.306,1 0,5.036 0,9.438 C0,11.799 0.967,13.499 2.026,15.097 L14.459,30.003 C15.854,31.48 16.118,31.48 17.513,30.003 L29.974,15.097 C31.22,13.499 32,11.799 32,9.438 C32,5.036 28.694,1 24,1 L24,1 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#primary" mask="url(#mask-2)" fill="#0072EE">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

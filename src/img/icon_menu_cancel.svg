@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / menu_cancel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.27275,7.2925 L15.97475,14.5925 L8.73875,7.3525 C8.34775,6.9625 7.71375,6.9625 7.32475,7.3525 C6.93375,7.7425 6.93375,8.3825 7.32475,8.7725 L14.56075,16.0025 L7.29475,23.2725 C6.90175,23.6625 6.90175,24.3025 7.29475,24.7025 C7.68875,25.0925 8.32675,25.0925 8.72075,24.7025 L15.98675,17.4325 L23.22275,24.6725 C23.61375,25.0625 24.24775,25.0625 24.63775,24.6725 C25.02875,24.2825 25.02875,23.6425 24.63775,23.2525 L17.40075,16.0225 L24.69775,8.7225 C25.09075,8.3225 25.09075,7.6925 24.69775,7.2925 C24.30375,6.9025 23.66675,6.9025 23.27275,7.2925 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-menu_cancel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#primary" mask="url(#mask-2)" fill="#0072EE">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

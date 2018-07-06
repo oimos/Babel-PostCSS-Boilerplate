@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / request</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4,6 C2.8954305,6 2,6.8954305 2,8 L2,24 C2,25.1045695 2.8954305,26 4,26 L28,26 C29.1045695,26 30,25.1045695 30,24 L30,8 C30,6.8954305 29.1045695,6 28,6 L4,6 Z M21.9984304,14.2755845 C21.9748736,15.1036337 21.6876822,15.7125414 21.24025,16.286375 L16.567375,21.876125 C16.04425,22.367 15.94525,22.367 15.422125,21.876125 L10.75975,16.286375 C10.3795026,15.7125928 10.030885,15.1037426 10.0019397,14.2758066 L0.614128183,8.64311969 L1.38587182,7.35688031 L10.3294795,12.7230449 C10.8099335,11.7271039 11.7799394,11 13,11 C14.249875,11 15.254875,11.66 15.988375,12.588125 C16.74325,11.69075 17.750125,11 19,11 C20.2200606,11 21.1900665,11.7271039 21.6705205,12.7230449 L30.6141282,7.35688031 L31.3858718,8.64311969 L21.9984304,14.2755845 Z M4,4 L28,4 C30.209139,4 32,5.790861 32,8 L32,24 C32,26.209139 30.209139,28 28,28 L4,28 C1.790861,28 2.705415e-16,26.209139 0,24 L0,8 C-2.705415e-16,5.790861 1.790861,4 4,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-request" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#primary" mask="url(#mask-2)" fill="#0072EE">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,15 @@
-/* .keep */
+.c-bannerWrapper {
+  background: #222;
+  padding: 0 38px 32px;
+  text-align: center;
+}
+
+.c-bannerWrapper > a {
+  display: inline-block;
+}
+
+.c-bannerWrapper > a > img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}

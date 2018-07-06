@@ -1,0 +1,15 @@
+.c-infoBar {
+  background: #0072ee;
+  text-align: center;
+}
+
+.c-infoBar p {
+  color: #fff;
+  font-size: 13px;
+  padding: 10px 26px;
+  line-height: 1.2;
+}
+
+.c-infoBar span {
+  display: inline-block;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / request2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23,6 L9,6 C8.447,6 8,6.448 8,7 C8,7.553 8.447,8 9,8 L23,8 C23.553,8 24,7.553 24,7 C24,6.448 23.553,6 23,6 L23,6 Z M23,11.978 L9,11.978 C8.447,11.978 8,12.425 8,12.978 C8,13.529 8.447,13.978 9,13.978 L23,13.978 C23.553,13.978 24,13.529 24,12.978 C24,12.425 23.553,11.978 23,11.978 L23,11.978 Z M23,18 L9,18 C8.447,18 8,18.447 8,19 C8,19.553 8.447,20 9,20 L23,20 C23.553,20 24,19.553 24,19 C24,18.447 23.553,18 23,18 L23,18 Z M28,30.027 L24,27 L20,30.188 L16,27 L12,30.188 L8,27 L4,30.059 L4,4 C4,2.896 4.896,2 6,2 L26,2 C27.104,2 28,2.896 28,4 L28,30.027 L28,30.027 Z M26,0 L6,0 C3.791,0 2,1.791 2,4 L2,32 L3.867,32 L8,29 L12,32 L16,29 L20,32 L24,29 L28.134,32 L30,32 L30,4 C30,1.791 28.209,0 26,0 L26,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-request2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#primary" mask="url(#mask-2)" fill="#0072EE">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

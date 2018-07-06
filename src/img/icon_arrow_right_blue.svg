@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / arrow-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.39825,14.39 L12.63125,4.63 C11.80025,3.79 10.45325,3.79 9.62325,4.63 C8.79225,5.46 8.79225,6.8 9.62325,7.63 L18.87925,16.03 L9.62325,24.43 C8.79225,25.26 8.79225,26.6 9.62325,27.43 C10.45325,28.27 11.80025,28.27 12.63125,27.43 L23.39825,17.67 C23.84825,17.22 24.04625,16.62 24.00925,16.03 C24.04625,15.44 23.84825,14.84 23.39825,14.39" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-arrow-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#FFFFFE" xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#primary" mask="url(#mask-2)" fill="#0072EE">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.8784079,23.2209755 C11.8489899,24.2596748 10.1823132,24.2596748 9.15289522,23.2209755 C9.15289522,23.2209755 0.718891777,14.6677353 0.693091828,14.6420884 C-0.256346308,13.5905656 -0.230546359,11.9619876 0.771781673,10.9361117 C1.79990965,9.89741241 3.46787638,9.89741241 4.49729436,10.9361117 L11.0143616,17.5530112 L27.5033913,0.779024502 C28.5315193,-0.259674834 30.199486,-0.259674834 31.228904,0.779024502 C32.257032,1.81772384 32.257032,3.51041905 31.228904,4.56194184 C31.228904,4.56194184 13.2241272,22.8619189 12.8784079,23.2209755 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bg-/-base-/-color#primary" transform="translate(0.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#333333" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" fill="#0072EE" id="Rectangle-2">
+                <g transform="translate(0.000000, -4.000000)">
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / file</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23,8.00523183 C21.896,8.00523183 21,7.10923183 21,6.00523183 L21,2.00523183 L27,8.00523183 L23,8.00523183 L23,8.00523183 Z M27,28.0052318 C27,29.1092318 26.104,30.0052318 25,30.0052318 L7,30.0052318 C5.896,30.0052318 5,29.1092318 5,28.0052318 L5,4.00523183 C5,2.90123183 5.896,2.00523183 7,2.00523183 L18.972,2.00523183 C18.954,4.40023183 19,6.00523183 19,6.00523183 C19,8.21423183 20.791,10.0052318 23,10.0052318 L27,10.0052318 L27,28.0052318 L27,28.0052318 Z M21,0.00523183391 L21,0.0332318339 C20.872,0.0332318339 20.338,-0.0157681661 19,0.00523183391 L7,0.00523183391 C4.791,0.00523183391 3,1.79623183 3,4.00523183 L3,28.0052318 C3,30.2142318 4.791,32.0052318 7,32.0052318 L25,32.0052318 C27.209,32.0052318 29,30.2142318 29,28.0052318 L29,10.0052318 L29,8.00523183 L21,0.00523183391 L21,0.00523183391 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-file" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-221" fill="#FFFFFE" xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#primary" mask="url(#mask-2)" fill="#0072EE">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

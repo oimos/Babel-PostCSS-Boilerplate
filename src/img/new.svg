@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / new</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,28.0777277 C16,28.0777277 12.872,22.0537277 12,20.0777277 L28.075,4.85672766 L16,28.0777277 L16,28.0777277 Z M4,15.0777277 L27,4.07772766 L11,19.0777277 C10.996,19.0737277 4,15.0777277 4,15.0777277 L4,15.0777277 Z M31,0.077727661 C29.844,0.640727661 0,15.0777277 0,15.0777277 C0,15.0777277 10.052,21.1367277 10,21.0777277 C9.983,21.0587277 16,32.0777277 16,32.0777277 C16,32.0777277 31.75,1.57772766 32,1.07772766 C32.219,0.452727661 31.75,-0.234272339 31,0.077727661 L31,0.077727661 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" transform="translate(16.027026, 16.038864) scale(1, -1) translate(-16.027026, -16.038864) " xlink:href="#path-1"></use>
+        <g id="Bg-/-base-/-color#white" mask="url(#mask-2)" fill="#FFFFFF">
+            <rect id="Rectangle-2" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

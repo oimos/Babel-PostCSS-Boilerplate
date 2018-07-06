@@ -1,11 +1,69 @@
-@import './utility/reset.css';
-@import './component/buttons.css';
-@import './component/header.css';
+@import "./utility/reset.css";
+@import "./component/buttons.css";
+@import "./component/header.css";
+@import "./component/footer.css";
+@import "./component/info.css";
+@import "./component/breadcrumbs.css";
+@import "./component/forms.css";
+@import "./component/grid.css";
+@import "./component/navs.css";
+@import "./component/pagination.css";
+@import "./component/thumbnails.css";
+@import "./component/media.css";
 
-@import './component/breadcrumbs.css';
-@import './component/forms.css';
-@import './component/grid.css';
-@import './component/navs.css';
-@import './component/pagination.css';
-@import './component/thumbnails.css';
-@import './component/media.css';
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.c-postVoice {
+  background: #072569;
+  padding: 36px;
+}
+
+.c-postVoice button {
+  font-size: 20px;
+  text-align: center;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  color: #fff;
+  width: 100%;
+  padding: 7px 0;
+}
+
+.c-postVoice__note {
+  font-size: 12px;
+  color: #fff;
+  margin-top: 12px;
+  line-height: 1.6;
+}
+
+.c-voiceGenre {}
+
+.c-voiceGenre__list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.c-voiceGenre__item {
+  flex: 1 1 33.333%;
+  max-width: 33.333%;
+}
+
+.c-voiceGenre__item > div {
+  padding: 30px 0;
+}
+
+.c-voiceGenre__item img {
+  display: block;
+  margin: auto;
+}
+
+.c-voiceGenre__item span {
+  display: block;
+  text-align: center;
+  color: #333;
+  font-size: 14px;
+  margin-top: 4px;
+}
