@@ -6,7 +6,7 @@
   </div>
   <div class="c-logoWrapper">
     <a href="#" class="c-logo">
-      <img src="./img/logo_light.svg" alt="こえキャスロゴ" width="151" height="32">
+      <!-- <img src="./img/logo_light.svg" alt="こえキャスロゴ" width="151" height="32"> -->
     </a>
   </div>
   <div class="c-searchBtn__wrapper">
@@ -15,3 +15,42 @@
     </button>
   </div>
 </header>
+
+<style>
+  body{
+    opacity: .1;
+  }
+
+  .c-menu{
+    width: 100%;
+    transform: translateY(-100vh);
+    transition: transition .6s ease;
+    position: absolute;
+  }
+
+  .c-menu a{
+    padding: 16px 12px;
+    display: block;
+  }
+
+  .c-menu.open{
+    transform: 0;
+  }
+</style>
+
+<nav class="c-menu">
+  <ul>
+    <li>
+      <a href="#">test</a>
+    </li>
+    <li>
+      <a href="#">test</a>
+    </li>
+    <li>
+      <a href="#">test</a>
+    </li>
+    <li>
+      <a href="#">test</a>
+    </li>
+  </ul>
+</nav>
